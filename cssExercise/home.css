@@ -38,7 +38,7 @@ body {
 }
 
 .container__heading img {
-    display: flex;
+    display: inline-block;
     width: 160px;
     height: 100px;
     border: solid;
